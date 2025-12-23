@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hey, soy Chai
 
-<!--
-**chaiLuna2003/chaiLuna2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador de software  
+🚀 Web | WordPress | React | PHP  
+⚡ Me gusta crear productos funcionales y bien diseñados
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- HTML, CSS, JavaScript
+- React, Tailwind
+- PHP, WordPress
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Proyectos destacados
+- 🔥 **Sitio Grupo Médico** – WordPress + UX optimizado  
+- 🚜 **Web renta de montacargas** – Diseño + performance  
+- 🧠 **Panel admin PHP (MVC)** – Control de sesiones
+
+## 📊 Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaiLuna2003&show_icons=true&theme=radical)
+
+## 📫 Contacto
+- 🌐 Portfolio: en proceso 
+- 💼 LinkedIn: (ponlo aquí)
