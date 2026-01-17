@@ -19,6 +19,7 @@
 - **Web renta de montacargas** – Diseño + performance  
 - **Web educativa** – WordPress + UX
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="angel-luna-dev-wp" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://mx.linkedin.com/in/angel-luna-dev-wp?trk=profile-badge">Angel Luna</a></div>
               
 
