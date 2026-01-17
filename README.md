@@ -1,8 +1,8 @@
-# 👋 Hey, soy Angel Luna
+# Hola Mundo, Soy Angel Luna
 
 ## Desarrollador Web   
--Web | WordPress | React | PHP  
---Me llamo Angel Luna (Compañeros me dicen Chai, de ahi mi nombre de usuario) me gusta crear y probar tecnologias con el fin de enriquecer mi conocimiento, actualmente me enuentro trabajando con WordPress.
+-Web | WordPress | PHP  
+--Me llamo Angel Luna (Compañeros me dicen Chai, de ahi mi nombre de usuario) me gusta crear y probar tecnologias con el fin de enriquecer mi conocimiento, actualmente me encuentro trabajando con WordPress.
 
 ## Tecnologias
 - HTML, CSS, JavaScript
@@ -19,10 +19,8 @@
 - **Web renta de montacargas** – Diseño + performance  
 - **Web educativa** – WordPress + UX 
 
-## Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaiLuna2003&show_icons=true&theme=radical)
 
 ## Contacto
-- Portfolio: en proceso 
+- Portfolio: (https://chailuna2003.github.io/webDevLuna/) 
 - LinkedIn: www.linkedin.com/in/angel-luna-dev-wp
 
