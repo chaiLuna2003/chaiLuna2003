@@ -19,14 +19,6 @@
 - **Web renta de montacargas** – Diseño + performance  
 - **Web educativa** – WordPress + UX
 
-### 🔗 Conecta conmigo en LinkedIn
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Angel%20Luna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://mx.linkedin.com/in/angel-luna-dev-wp)
-
-              
-
-
 ## Contacto
 - Portfolio: (https://chailuna2003.github.io/webDevLuna/) 
-- LinkedIn: www.linkedin.com/in/angel-luna-dev-wp
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Angel%20Luna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://mx.linkedin.com/in/angel-luna-dev-wp)
