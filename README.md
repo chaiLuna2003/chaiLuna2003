@@ -16,8 +16,8 @@
 
 ## Proyectos destacados
 - **Sitio Grupo Médico** – WordPress + UX optimizado  
-- **Web renta de montacargas** – Diseño + performance  
-- **Web educativa** – WordPress + UX
+- **Web renta de montacargas** – Diseño + performance  https://simmsa.mx/
+- **Web educativa** – WordPress + UX  https://thecomputists.com
 
 ## Contacto
 - Portfolio: (https://chailuna2003.github.io/webDevLuna/) 
