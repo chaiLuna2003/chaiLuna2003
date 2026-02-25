@@ -1,4 +1,4 @@
-# Hola Mundo, Soy Angel Luna
+#Soy Angel Luna
 
 ## Desarrollador Web   
 -Web | WordPress | PHP  
