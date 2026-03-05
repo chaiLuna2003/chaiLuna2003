@@ -1,24 +1,21 @@
-#Soy Angel Luna
+<img width="1920" height="1080" alt="Permitir que un estudiante pueda pedir ayuda o reportar una situación en menos de 10 segundos" src="https://github.com/user-attachments/assets/f90d0f01-07b0-47c9-be34-1aa0e8c1f369" />
 
-## Desarrollador Web   
--Web | WordPress | PHP  
---Me llamo Angel Luna (Compañeros me dicen Chai, de ahi mi nombre de usuario) me gusta crear y probar tecnologias con el fin de enriquecer mi conocimiento, actualmente me encuentro trabajando con WordPress.
+<p>Me llamo Angel Luna (Compañeros me dicen Chai, de ahi mi nombre de usuario) me gusta crear y probar tecnologias con el fin de enriquecer mi conocimiento, actualmente me encuentro trabajando con Laravel para la creacion de Aplicaciones Web robustas, del lado del desarrollo web me enfoco en asegurar la eficiencia a traves de la optimización de paginas para su eficaz usabilidad. </p>
 
-## Tecnologias
-- HTML, CSS, JavaScript
-- PHP, WordPress
+<h1> Tecnologias </h1>
+- HTML, CSS, JavaScript y JQuery
+- PHP, WordPress, Laravel
+- Tailwind CSS, Bootstrap
 - MySQL
 
-## Aprendiendo..
+<h1> Aprendiendo... </h1>
 - React
 - Tailwind
 - Laravel
 
-## Proyectos destacados
-- **Sitio Grupo Médico** – WordPress + UX optimizado  
+<h1> Proyectos destacados </h1>
+- **Sitio Grupo Médico** – WordPress + UX optimizado  https://gmr.thecomputists.com/
 - **Web renta de montacargas** – Diseño + performance  https://simmsa.mx/
 - **Web educativa** – WordPress + UX  https://thecomputists.com
 
-## Contacto
-- Portfolio: (https://chailuna2003.github.io/webDevLuna/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Angel%20Luna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://mx.linkedin.com/in/angel-luna-dev-wp)
+
