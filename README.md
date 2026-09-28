@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hola, soy Angel Luna 👋
+# Hola, soy Angel Luna
 
-### Desarrollador Web · Laravel · Plataformas digitales
+### Desarrollador de Software · Laravel · Plataformas digitales
 
 Convierto necesidades reales en aplicaciones web funcionales, claras y listas para producción.
 
